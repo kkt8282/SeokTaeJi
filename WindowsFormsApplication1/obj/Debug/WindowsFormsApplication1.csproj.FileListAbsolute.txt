@@ -1,0 +1,138 @@
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wlghk\Documents\Visual Studio 2015\Projects\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\wlghk\Desktop\새 폴더\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.pdb
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.xml
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.pdb
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.xml
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.xml
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\휴스타\이미지 프로세싱\SeokTaeJi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
